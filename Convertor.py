@@ -9,7 +9,14 @@ options = [
     "GBP/Great Britain",
     "USD/Dollar",
     "EUR/Euro",
-    "BGN/Bulgaria"
+    "BGN/Bulgaria",
+    "JPY/Japanese Yen",
+    "AUD/Australian Dollar",
+    "CHF/Swiss franch",
+    "NZD/New Zealand Dollar",
+    "HKD/Hong Kong Dollar",
+    "TRY/Turkish lira",
+    "RUB/Russian ruble"
 ]
 
 label = " "
