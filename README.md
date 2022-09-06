@@ -1,2 +1,3 @@
-# CurrencyConvertor
-![εικόνα](https://user-images.githubusercontent.com/48152693/188456229-9d46ce85-8668-4512-8d25-59fc89196809.png)
+# CurrencyConverter
+![εικόνα](https://user-images.githubusercontent.com/48152693/188570915-6a784ac5-114f-428e-8a07-8137848d6d24.png)
+
